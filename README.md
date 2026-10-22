@@ -3,8 +3,6 @@
   <p><strong>Desenvolvedor em formação · Python · Automação · Dados</strong></p>
 </div>
 
-<br />
-
 <div align="center">
   <h2>🚀 Sobre mim</h2>
   <p>🐍 Desenvolvo projetos com <strong>Python</strong>, automação e integração de dados.</p>
@@ -12,8 +10,6 @@
   <p>🌱 Estou sempre aprendendo e evoluindo como desenvolvedor.</p>
   <p>💡 Aqui você encontra os projetos que fazem parte da minha jornada.</p>
 </div>
-
-<br />
 
 <div align="center">
   <h2>🛠️ Tecnologias e ferramentas</h2>
@@ -25,8 +21,6 @@
   </p>
 </div>
 
-<br />
-
 <div align="center">
   <h2>📈 Minhas estatísticas</h2>
   <a href="https://github.com/moises-dev-alt">
@@ -37,8 +31,6 @@
   </a>
 </div>
 
-<br />
-
 <div align="center">
   <h2>🐍 Contribuições</h2>
   <picture>
@@ -47,8 +39,6 @@
     <img alt="Animação das contribuições de Moisés" src="https://raw.githubusercontent.com/moises-dev-alt/moises-dev-alt/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br />
 
 <div align="center">
   <i>“A evolução acontece um commit de cada vez.”</i>
